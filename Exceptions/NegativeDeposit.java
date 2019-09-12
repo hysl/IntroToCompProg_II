@@ -1,5 +1,5 @@
 /*
-Helen Li (1260857)
+Helen Li
 April 1, 2019
 */
 
