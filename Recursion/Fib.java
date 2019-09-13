@@ -3,6 +3,7 @@ Helen Li
 May 6, 2019
 */
 
+// non-recursive Fib demo
 public class Fib
 {
 	public static void main(String[] args)
